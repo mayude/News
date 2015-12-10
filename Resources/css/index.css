@@ -1,0 +1,54 @@
+.main {
+  height: 100%;
+  width: 100%;
+}
+.qhcontent {
+  height: 78px;
+  border-top: 1px solid #c0c0c0;
+  border-bottom: 1px solid #c0c0c0;
+}
+.qhcontentdown {
+  height: 78px;
+  border-bottom: 1px solid #c0c0c0;
+}
+.qhhe {
+  float: left;
+  width: 25%;
+  border-left: 1px solid #c0c0c0;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 14px;
+}
+.qhxw {
+  float: left;
+  width: 25%;
+  border-left: 1px solid #c0c0c0;
+  border-right: 1px solid #c0c0c0;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 14px;
+}
+.qhxw1 {
+  float: left;
+  width: 25%;
+  --border-left: 1px solid #c0c0c0;
+  border-right: 1px solid #c0c0c0;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 14px;
+}
+.qhxw2 {
+  float: left;
+  width: 24.6%;
+  --border-left: 1px solid #c0c0c0;
+  border-right: 1px solid #c0c0c0;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 14px;
+}
+.title {
+  height: 35px;
+  text-align: left;
+  line-height: 35px;
+  color: #2eb9c0
+}
